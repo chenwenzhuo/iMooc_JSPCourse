@@ -14,6 +14,6 @@
   <h1>使用两种方法创建JavaBean的实例</h1>
   <hr/>
   在<a href="byNew.jsp">byNew.jsp</a>中使用new关键字创建User类的实例；<br/>
-  在<a href="byUseBean.jsp">byUseBean.jsp</a>中使用useBean动作元素创建。<br/>
+  在<a href="byActionElement.jsp">byActionElement.jsp</a>中使用useBean动作元素创建。<br/>
   </body>
 </html>
