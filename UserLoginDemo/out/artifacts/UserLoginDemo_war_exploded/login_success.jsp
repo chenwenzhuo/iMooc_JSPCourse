@@ -13,6 +13,8 @@
 <body>
 <h1>登录成功页面</h1>
 <hr/>
-欢迎<span style="color:red;font-size: 20px;font-weight: bold"><%=request.getParameter("username")%></span>登录！
+欢迎<span style="color:red;font-size: 20px;font-weight: bold">
+    <%=request.getParameter("username")%>
+    </span>登录！
 </body>
 </html>

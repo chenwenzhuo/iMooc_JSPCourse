@@ -9,10 +9,22 @@
 <html>
 <head>
     <title>用户登陆</title>
+    <style type="text/css">
+        p {
+            display: inline-block;
+            font-family: "宋体", serif;
+            color: white;
+            font-size: 40px;
+        }
+    </style>
 </head>
 <body>
-<h1>请输入用户名和密码以登陆</h1>
-<hr/>
+<div id="headOfPage" style="background-color:#00bfff;margin-bottom: 10px">
+    <p>HeyThere Login<br/>
+        <span style="font-size: 28px">Log in to system</span>
+    </p>
+</div>
+
 <form method="post" action="checkLogin.jsp">
     <table>
         <tr>
@@ -22,8 +34,7 @@
                     <input type="text" name="username">
                 </label>
             </td>
-        </tr>
-        <tr>
+            <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
             <td>密码：</td>
             <td>
                 <label>
