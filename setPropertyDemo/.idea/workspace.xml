@@ -7,28 +7,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0de5830a-4e30-4c48-b7be-9d1233917423" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../CreateJavaBeanObject/.idea/artifacts/CreateJavaBeanObject_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CreateJavaBeanObject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CreateJavaBeanObject/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CreateJavaBeanObject/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CreateJavaBeanObject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CreateJavaBeanObject/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CreateJavaBeanObject/CreateJavaBeanObject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CreateJavaBeanObject/src/com/po/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CreateJavaBeanObject/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CreateJavaBeanObject/web/byNew.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CreateJavaBeanObject/web/byUseBean.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CreateJavaBeanObject/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/setPropertyDemo_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setPropertyDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/po/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/doLogin.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserLoginDemoByModel1/.idea/artifacts/UserLoginDemoByModel1_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserLoginDemoByModel1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserLoginDemoByModel1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserLoginDemoByModel1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserLoginDemoByModel1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserLoginDemoByModel1/UserLoginDemoByModel1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserLoginDemoByModel1/src/com/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserLoginDemoByModel1/src/com/po/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserLoginDemoByModel1/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserLoginDemoByModel1/web/checkLogin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserLoginDemoByModel1/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserLoginDemoByModel1/web/login_fail.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UserLoginDemoByModel1/web/login_success.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,20 +33,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="725">
-              <caret line="42" selection-start-line="42" selection-end-line="42" />
+            <state relative-caret-position="381">
+              <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/doLogin.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/doLogin.jsp">
+        <entry file="file://$PROJECT_DIR$/src/com/po/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="817">
-              <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+            <state relative-caret-position="46">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -206,16 +206,18 @@
       <updated>1554622971872</updated>
       <workItem from="1554622973299" duration="2565000" />
       <workItem from="1554625983432" duration="85000" />
+      <workItem from="1554795350843" duration="52000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2650000" />
+    <option name="totallyTimeSpent" value="2702000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="837" y="0" width="1090" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25436893" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2592233" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -253,24 +255,25 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/doLogin.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
-          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web/login.jsp" />
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="381">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/po/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/doLogin.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
         </state>
       </provider>
     </entry>
