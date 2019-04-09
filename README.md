@@ -13,6 +13,10 @@ PrintMultipicationTable —— 在 JSP 页面中打印九九乘法表。
 
 UserLoginDemo —— 用户登录案例。
 
+UserLoginDemoByModel1 —— 使用model1，将业务逻辑处理放在javabean中。
+
+UserLogin_WithCookie —— 使用Cookie保存用户名密码。
+
 setPropertyDemo —— 测试 JSP 的 setProperty 动作元素。
 
 useBeanScope —— 测试 useBean 动作元素的 scope 属性的四种不同取值对页面的影响。
