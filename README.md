@@ -7,7 +7,7 @@ CreateJavaBeanObject —— 测试创建JavaBean实例的两种方法：直接 n
 
 First_JSP_Project —— 第一个简单的 JSP 项目。
 
-includeInstructionDemo —— 在JSP页面中使用include指令包含另一个JSP页面，显示当前日期。
+include_Instruction&ActionDemo —— 分别使用include指令和include动作，在一个jsp页面中包含另一个JSP页面，显示当前日期和时间。
 
 JSPInnerObject —— 测试 JSP 的内置对象如：page，session，request，response，application。
 
